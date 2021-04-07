@@ -163,4 +163,5 @@ Thumbs.db #thumbnail cache on Windows
 __pycache__/*
 .vscode/*
 test.yaml
+test.txt
 as-dataia-ibi-weu-01.PublishSettings
